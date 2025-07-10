@@ -7,7 +7,7 @@ DATASET_DIR = "yolo_classification_dataset_undersampled"
 TEST_IMAGE_PATH = None  # ou substitua por "path/to/image.jpg"
 MODEL_TYPE = "yolov8n-cls.pt"
 IMAGE_SIZE = 224
-EPOCHS = 50
+EPOCHS = 100
 
 
 def main():
